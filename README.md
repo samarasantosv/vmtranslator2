@@ -266,19 +266,19 @@ fim, conferindo a mensagem `Comparison ended successfully`.
 
 **1. BasicLoop**
 
-![Teste BasicLoop no CPUEmulator](sucesso1.png)
+![Teste BasicLoop no CPUEmulator](tests/sucesso1.png)
 
 **2. FibonacciSeries**
 
-![Teste FibonacciSeries no CPUEmulator](sucesso2.png)
+![Teste FibonacciSeries no CPUEmulator](tests/sucesso2.png)
 
 **3. SimpleFunction**
 
-![Teste SimpleFunction no CPUEmulator](sucesso3.png)
+![Teste SimpleFunction no CPUEmulator](tests/sucesso3.png)
 
 **4. NestedCall**
 
-![Teste NestedCall no CPUEmulator](sucesso4.png)
+![Teste NestedCall no CPUEmulator](tests/sucesso4.png)
 
 ---
 
