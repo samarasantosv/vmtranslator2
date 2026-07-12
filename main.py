@@ -40,6 +40,10 @@ def main():
 
     input_path = sys.argv[1].rstrip("/\\")
 
+    if not os.path.exists(input_path):
+        print(f"Erro: arquivo ou diretorio nao encontrado: {input_path}")
+        sys.exit(1)
+
     if os.path.isdir(input_path):
         vm_files = [
             os.path.join(input_path, f)
